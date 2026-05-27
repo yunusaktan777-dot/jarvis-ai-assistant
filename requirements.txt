@@ -1,0 +1,14 @@
+"""
+Requirements for JARVIS AI Assistant
+"""
+
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.1
+PyQt6-sip==13.6.0
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+openai==1.40.0
+requests==2.32.0
+psutil==6.0.0
+python-dotenv==1.0.1
+cryptography==43.0.0
